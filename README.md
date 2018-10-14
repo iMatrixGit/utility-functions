@@ -1,4 +1,7 @@
 # Example
 
 ## Usage
-Comming soon
+
+```
+sum(2,3)
+//=> 5
